@@ -1,0 +1,8 @@
+c:\users\shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\FingerGuessGame\bin\Debug\FingerGuessGame.exe.config
+c:\users\shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\FingerGuessGame\bin\Debug\FingerGuessGame.exe
+c:\users\shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\FingerGuessGame\bin\Debug\FingerGuessGame.pdb
+c:\users\shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\FingerGuessGame\bin\Debug\ClassLibrary1.dll
+c:\users\shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\FingerGuessGame\bin\Debug\ClassLibrary1.pdb
+c:\users\shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\FingerGuessGame\obj\Debug\FingerGuessGame.csprojResolveAssemblyReference.cache
+c:\users\shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\FingerGuessGame\obj\Debug\FingerGuessGame.exe
+c:\users\shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\FingerGuessGame\obj\Debug\FingerGuessGame.pdb

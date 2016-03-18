@@ -1,0 +1,9 @@
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guessfinger10\bin\Debug\guessfinger10.exe.config
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guessfinger10\bin\Debug\guessfinger10.exe
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guessfinger10\bin\Debug\guessfinger10.pdb
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guessfinger10\obj\Debug\guessfinger10.csprojResolveAssemblyReference.cache
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guessfinger10\obj\Debug\guessfinger10.Form1.resources
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guessfinger10\obj\Debug\guessfinger10.Properties.Resources.resources
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guessfinger10\obj\Debug\guessfinger10.csproj.GenerateResource.Cache
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guessfinger10\obj\Debug\guessfinger10.exe
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guessfinger10\obj\Debug\guessfinger10.pdb

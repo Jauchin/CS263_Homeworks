@@ -1,0 +1,11 @@
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guess4Digit\bin\Debug\guess4Digit.exe.config
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guess4Digit\obj\Debug\guessNumber.Form1.resources
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guess4Digit\obj\Debug\guess4Digit.Properties.Resources.resources
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guess4Digit\obj\Debug\guess4Digit.csproj.GenerateResource.Cache
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guess4Digit\bin\Debug\guess4Digit.exe
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guess4Digit\bin\Debug\guess4Digit.pdb
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guess4Digit\bin\Debug\ClassLibrary1.dll
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guess4Digit\bin\Debug\ClassLibrary1.pdb
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guess4Digit\obj\Debug\guess4Digit.exe
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guess4Digit\obj\Debug\guess4Digit.pdb
+C:\Users\Shumei\documents\visual studio 2013\Projects\[CS263]2016-03-17\guess4Digit\obj\Debug\guess4Digit.csprojResolveAssemblyReference.cache
