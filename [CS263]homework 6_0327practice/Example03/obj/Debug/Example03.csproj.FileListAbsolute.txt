@@ -1,0 +1,11 @@
+C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\bin\Debug\Example03.exe.config
+C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\bin\Debug\Example03.exe
+C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\bin\Debug\Example03.pdb
+C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\obj\Debug\Example03.csprojResolveAssemblyReference.cache
+C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\obj\Debug\Example03.Form1.resources
+C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\obj\Debug\Example03.Properties.Resources.resources
+C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\obj\Debug\Example03.csproj.GenerateResource.Cache
+C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\obj\Debug\Example03.exe
+C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\obj\Debug\Example03.pdb
+C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\bin\Debug\EmployeeLibrary.dll
+C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\bin\Debug\EmployeeLibrary.pdb

@@ -1,0 +1,6 @@
+c:\users\shumei\documents\visual studio 2013\Projects\0327practice\Example01\bin\Debug\Example01.exe.config
+c:\users\shumei\documents\visual studio 2013\Projects\0327practice\Example01\bin\Debug\Example01.exe
+c:\users\shumei\documents\visual studio 2013\Projects\0327practice\Example01\bin\Debug\Example01.pdb
+c:\users\shumei\documents\visual studio 2013\Projects\0327practice\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+c:\users\shumei\documents\visual studio 2013\Projects\0327practice\Example01\obj\Debug\Example01.exe
+c:\users\shumei\documents\visual studio 2013\Projects\0327practice\Example01\obj\Debug\Example01.pdb
