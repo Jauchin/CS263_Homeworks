@@ -4,3 +4,6 @@ C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example02\bin
 C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
 C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example02\obj\Debug\Example02.exe
 C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example02\obj\Debug\Example02.pdb
+C:\Users\Shumei\Desktop\CS263_Homeworks\CS263_Homeworks\[CS263]homework 6_0327practice\Example02\bin\Debug\Example02.exe.config
+C:\Users\Shumei\Desktop\CS263_Homeworks\CS263_Homeworks\[CS263]homework 6_0327practice\Example02\obj\Debug\Example02.exe
+C:\Users\Shumei\Desktop\CS263_Homeworks\CS263_Homeworks\[CS263]homework 6_0327practice\Example02\obj\Debug\Example02.pdb

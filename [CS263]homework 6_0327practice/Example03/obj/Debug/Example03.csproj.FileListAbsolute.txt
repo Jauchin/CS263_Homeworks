@@ -9,3 +9,6 @@ C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\obj
 C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\obj\Debug\Example03.pdb
 C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\bin\Debug\EmployeeLibrary.dll
 C:\Users\Shumei\documents\visual studio 2013\Projects\0327practice\Example03\bin\Debug\EmployeeLibrary.pdb
+C:\Users\Shumei\Desktop\CS263_Homeworks\CS263_Homeworks\[CS263]homework 6_0327practice\Example03\bin\Debug\Example03.exe.config
+C:\Users\Shumei\Desktop\CS263_Homeworks\CS263_Homeworks\[CS263]homework 6_0327practice\Example03\obj\Debug\Example03.exe
+C:\Users\Shumei\Desktop\CS263_Homeworks\CS263_Homeworks\[CS263]homework 6_0327practice\Example03\obj\Debug\Example03.pdb
